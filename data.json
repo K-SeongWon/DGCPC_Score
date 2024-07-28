@@ -1,0 +1,29 @@
+{
+  "teams": [
+    {
+      "id": "team1",
+      "name": "1구역",
+      "score": 110
+    },
+    {
+      "id": "team2",
+      "name": "2구역",
+      "score": 0
+    },
+    {
+      "id": "team3",
+      "name": "3구역",
+      "score": 0
+    },
+    {
+      "id": "team4",
+      "name": "4구역",
+      "score": 0
+    },
+    {
+      "id": "team5",
+      "name": "한나회",
+      "score": 0
+    }
+  ]
+}
